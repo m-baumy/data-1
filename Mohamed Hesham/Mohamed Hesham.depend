@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637262604 source:f:\sources\mohamed hesham\main.c
+	<math.h>
+	<stdio.h>
+	<time.h>
+
